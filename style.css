@@ -28,7 +28,7 @@ p {
 
 article {
     border-bottom: 5px solid #111;
-    background-color: #111;
+    background-color: #aaa;
     text-align: center;
     padding: 20px;
     margin: 20px;
@@ -79,6 +79,8 @@ nav {
 }
 
 .picture {
+    height: 50px;
+    width: 50px;
     float: left;
     margin-right: 10px;
 }
