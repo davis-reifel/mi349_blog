@@ -40,7 +40,8 @@ article {
 }
 
 #table {
-    background-color: aliceblue;
+    background-color: #111;
+    align-items: center;
 }
 
 #sign-up {
@@ -60,6 +61,6 @@ article {
     background-color: #aaa;
 }
 
-r4 {
+#r4 {
     background-color: #e3e3e3;
 }
