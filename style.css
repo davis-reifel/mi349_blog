@@ -1,0 +1,37 @@
+html {
+    background: #e3e3e3;
+
+}
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+    margin: 150px;
+    padding: 40px;
+    color: #aaaaaa;
+    border-top: 10px solid #111;
+}
+
+h1 {
+    font-size: 3em;
+    margin: 0;
+
+}
+
+p {
+    line-height: 1.4em;
+}
+
+#blog {
+    border-top: 1px solid #111;
+
+}
+
+.blog-post {
+    border-bottom: 1px solid #111;
+    background-color: #aaaaaa;
+}
+
+article {
+    border-bottom: 1px solid #111;
+    background-color: #e3e3e3;
+}
