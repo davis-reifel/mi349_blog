@@ -23,20 +23,24 @@ p {
 
 #blog {
     border-top: 5px solid #111;
-    margin: 40px;
+    background-color: #111;
     display: flex;
-}
-
-.blog-post {
-    border-bottom: 5px solid #111;
-    background-color: #aaa;
-    text-align: center;
 }
 
 article {
     border-bottom: 5px solid #111;
-    background-color: #e3e3e3;
+    background-color: #aaa;
     text-align: center;
+    padding: 20px;
+    margin: 20px;
+}
+
+article:nth-of-type(1) {
+    flex: 1;
+}
+
+article:nth-of-type(2) {
+    flex: 1;
 }
 
 #table {
