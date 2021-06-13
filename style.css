@@ -77,3 +77,8 @@ nav {
     position: sticky;
     top: 0;
 }
+
+img {
+    float: left;
+    margin-right: 10px;
+}
