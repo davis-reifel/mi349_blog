@@ -24,7 +24,7 @@ p {
 #blog {
     border-top: 5px solid #111;
     margin: 40px;
-
+    display: flex;
 }
 
 .blog-post {
