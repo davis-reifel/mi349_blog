@@ -1,13 +1,13 @@
 html {
-    background: #e3e3e3;
+    background: #fff;
 
 }
 
 body {
     font-family: 'Times New Roman', Times, serif;
-    margin: 150px;
+    margin: 100px;
     padding: 40px;
-    color: #aaaaaa;
+    color: #111;
     border-top: 10px solid #111;
 }
 
@@ -28,10 +28,15 @@ p {
 
 .blog-post {
     border-bottom: 1px solid #111;
-    background-color: #fff;
+    background-color: #aaa;
 }
 
 article {
     border-bottom: 1px solid #111;
     background-color: #e3e3e3;
+}
+
+#table {
+    background-color: aliceblue;
+    align-self: center;
 }
