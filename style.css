@@ -21,14 +21,14 @@ p {
     line-height: 1.4em;
 }
 
-#blog {
-    border-top: 5px solid #e3e3e3;
+#blog { 
     display: flex;
     background-color: #111;
 }
 
 article {
     border-bottom: 5px solid #e3e3e3;
+    border-top: 5px solid #e3e3e3;
     background-color: #aaa;
     text-align: center;
     padding: 20px;
