@@ -23,13 +23,12 @@ p {
 
 #blog {
     border-top: 5px solid #111;
-    background-color: #111;
     display: flex;
 }
 
 article {
     border-bottom: 5px solid #111;
-    background-color: #aaa;
+    background-color: #111;
     text-align: center;
     padding: 20px;
     margin: 20px;
