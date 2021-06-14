@@ -85,3 +85,12 @@ nav {
     float: left;
     margin-right: 10px;
 }
+
+/* Media Queries */
+@media (max-width: 400px ) {
+    #blog { 
+        display: flex;
+        flex-direction: column;
+        background-color: #111;
+    }
+}
